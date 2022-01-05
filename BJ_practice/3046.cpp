@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
  
 int main() {
 	int R1, S, R2;
@@ -8,4 +8,4 @@ int main() {
 	printf("%d",R2);
 
 	return 0;
-}
+}*/

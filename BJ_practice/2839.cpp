@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 	int H=0, M=0, min=0;
 	scanf_s("%d %d", &H, &M);
@@ -20,4 +20,4 @@ int main() {
 	printf("%d %d", H, min);
 
 	return 0;
-}
+}*/

@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main()
 {
 	int N = 0;
@@ -25,4 +25,4 @@ int main()
 
 	}
 	printf("%d", cnt);
-}
+}*/
