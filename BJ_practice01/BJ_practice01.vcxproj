@@ -123,7 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1234.cpp" />
     <ClCompile Include="2839.cpp" />
     <ClCompile Include="2869.cpp" />
     <ClCompile Include="2884.cpp" />
